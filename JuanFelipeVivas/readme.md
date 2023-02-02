@@ -1,11 +1,11 @@
 *Juan Felipe Vivas Manrique*
 > 21 años
 
-*FUEC
-*AYED
-*POOB
+* FUEC
+* AYED
+* POOB
 
-###FIFA
+### FIFA
 LEER
 DORMIR
 

@@ -26,5 +26,6 @@ for (i=0; i<5; i++) {
 
   *PARTE 3 LEARN GIT*
 
-![](https://drive.google.com/file/d/1vZoxH2h9rjLDbYCS0HcVO7ItePbAIOr2/view?usp=sharing)
+![image](1.jpeg)
+![image](2.jpeg)
 

@@ -36,5 +36,9 @@ _Héroes Favoritos ordenados de el más favorito al peor:_
 
 When `x = 3`, that means `x + 2 = 5`
 
+# PARTE III
+
+![](https://i.postimg.cc/gcVyv54q/1675306328763.jpg)
+![](https://i.postimg.cc/50MYy9cc/1675306328756.jpg)
 
 

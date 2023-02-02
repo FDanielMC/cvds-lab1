@@ -26,6 +26,5 @@ for (i=0; i<5; i++) {
 
   *PARTE 3 LEARN GIT*
 
-![image](1.png)
-![image](2.png)
+![](https://i.postimg.cc/WbKYF2j8/1.png)
 

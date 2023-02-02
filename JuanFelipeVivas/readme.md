@@ -4,7 +4,6 @@
 *FUEC
 *AYED
 *POOB
-*EL BICHO
 
 #FIFA
 LEER
@@ -27,5 +26,5 @@ for (i=0; i<5; i++) {
 
   *PARTE 3 LEARN GIT*
 
-![](https://i.picasion.com/pic92/03e0cbc76ca6c4a8f9ba1c6cc045b513.gif)
+![](https://drive.google.com/file/d/1vZoxH2h9rjLDbYCS0HcVO7ItePbAIOr2/view?usp=sharing)
 
